@@ -1,0 +1,14 @@
+[info]/home/leaf/workspace/go_workspace/src/org.leaf/doc-web/docWeb.go:45: 
+
+
+
+//////////////////////////////////////////////////////////////////
+// function: 	文档
+// Author:  	leaf
+// Blog:    	none
+// E-Mail:  	none
+// Version: 	1.0
+//////////////////////////////////////////////////////////////////
+[info]/home/leaf/workspace/go_workspace/src/org.leaf/doc-web/docWeb.go:54: read config file.
+[info]/home/leaf/workspace/go_workspace/src/org.leaf/doc-web/docWeb.go:61: begin mysql doc ,visit /mysql ...
+[info]/home/leaf/workspace/go_workspace/src/org.leaf/doc-web/docWeb.go:61: begin mongodb doc ,visit /mongodb ...
